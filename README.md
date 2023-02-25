@@ -10,9 +10,6 @@ Readme:
 is the algorithm calculating the 5 days, 10 days moving average of a chosen stock, where the stock data is stored in the MySql database. 
 
 2.update_20.py:
-contains 
-
-
 (1)A web crawler, pulled textual data (daily news of the company) from eastmoney.com . 
 (2)A report generator, generate the finalized result into an excel xlsx file.
 
@@ -40,7 +37,6 @@ My duties on the project:
 6.Developed quantitative methods of data, stock screening strategies with group members
 
 7.	Performed quantitative analysis on numerical data by SQL queries and Python Panada package
-
 
 8.	Conducted emotional test by NLP provided by BAIDU AI on news-related data of every company 
 

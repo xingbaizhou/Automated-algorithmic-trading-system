@@ -1,5 +1,6 @@
 # Automated-algorithmic-trading-system
 data source: (https://tushare.pro/)
+These are some sample files of the system, becuase of the regulations of the company, I am only allow to show partial work I did.
 
 1.update_ma.py:
 is the algorithm calculating the 5 days, 10 days moving average of a chosen stock, where the stock data is stored in the MySql database. 

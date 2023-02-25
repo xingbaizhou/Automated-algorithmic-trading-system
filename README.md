@@ -11,3 +11,7 @@ contains
 
 (2)A web crawler, pulled textual data (daily news of the company) from eastmoney.com . 
 (3)A report generator, generate the finalized result into an excel xlsx file.
+
+3.update_news:
+Data crawler which pull textual data of daily news from sina.com
+
